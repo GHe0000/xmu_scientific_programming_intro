@@ -6,7 +6,7 @@
 
 该仓库使用 GitHub Page 进行托管，仓库中所有 `ipynb` 生成的 `html` 可以通过如下链接访问查看（带有公式渲染）：
 
-<https://ghe0000.github.io/scientific-programming-intro/>
+<https://ghe0000.github.io/xmu_scientific_programming_intro/>
 
 > [!NOTE]
 > 上述网站现在可以在如下更简短的网址访问：
